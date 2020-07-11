@@ -1,0 +1,9 @@
+__pycache__/
+*training_data*
+*th-xception*
+.ropeproject/
+.idea/
+*test*
+*model_checkpoint*
+*combined_data*
+old_models_and_data/
