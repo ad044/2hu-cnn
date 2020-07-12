@@ -3,7 +3,6 @@ __pycache__/
 *th-xception*
 .ropeproject/
 .idea/
-*test*
 *model_checkpoint*
 *combined_data*
 old_models_and_data/
